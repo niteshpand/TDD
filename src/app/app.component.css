@@ -1,0 +1,28 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.form-control {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.btn-block {
+  font-size: 1.2rem;
+}
+
+.alert {
+  font-size: 1.1rem;
+  margin-top: 10px;
+}
